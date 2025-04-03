@@ -21,3 +21,4 @@ Investigação de Dados: Compreender a disseminação de casos e óbitos de COVI
 
 -Criação de Views e Tabelas Temporárias: Organizar e apresentar dados de maneira eficaz.
 
+Link para alguns gráficos criados em uma Dashboard no Tableau: https://public.tableau.com/app/profile/thiagobbruno/viz/PainelsobreCOVIDatmarode2021/Painel1
